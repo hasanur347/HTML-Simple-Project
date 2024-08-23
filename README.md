@@ -13,6 +13,7 @@ This repository contains a simple HTML project. It is designed to demonstrate ba
 - Clean and well-structured HTML code
 - Demonstrates the use of various HTML tags
 - Focus on semantic HTML elements
+- Three html pages
 
 ## Getting Started
 
